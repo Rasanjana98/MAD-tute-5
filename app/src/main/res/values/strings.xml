@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DB Handling</string>
+    <string name="txtUname">User Name :</string>
+    <string name="txtPassword">Password :</string>
+    <string name="btnSelect">Select All</string>
+    <string name="btnSign">sign in</string>
+    <string name="btnAdd">Add</string>
+    <string name="btnDelete">Delete</string>
+    <string name="btnUpdate">update</string>
+</resources>
